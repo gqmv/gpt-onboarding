@@ -1,0 +1,4 @@
+openai==1.16.2
+pydantic==2.6.4
+langchain
+python-telegram-bot[job-queue]
